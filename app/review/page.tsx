@@ -76,7 +76,8 @@ const ReviewPage = () => {
                 Bonny and Clyde Street, Ajao Estate, Lagos
               </h3>
               <p className="font-[inter] text-[12px] leading-[18px] pt-[8px]">
-                <span className="font-semibold  text-[#18181B]">"450"</span>
+                <span className="font-semibold  text-[#18181B]">&apos;450&apos;
+                </span>
                 <span className=" font-medium  text-[#18181B]">
                   Reviews (People are raving about the location)
                 </span>
